@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Cheek Defender</string>
+    
+	
+	<string name="about_text">Welcome to Cheek Defender.\nThis app is meant for those who suffer from dropped calls due to their fatty cheek touching the End button.\nWhen activated, your screen will be locked upon making or recieving a call.\nHit &quot;Back&quot; button to go back to active call. From there hit &quot;Back&quot; again, or choose from notification bar to Relock.\nEnjoy.</string>
+	
+<string name="app_ver">1.0</string>
+<string name="about_donate">If you like this app, please consider donating on my website or buying donation version. Thanks.</string>
+<string name="about_donated">Thank you for supporting my work!</string>
+<string name="about_button">Got it!</string>
+<string name="menu_about">About</string>
+<string name="about_url">www.oogiyot.com</string>
+
+
+</resources>
